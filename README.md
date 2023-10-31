@@ -26,4 +26,4 @@
 
 ### 🧩 &nbsp;Últimos proyectos
 
-- Portafolio: https://github.com/kaceto104/MauroEcheverria
+- Portafolio: https://github.com/MauroEcheverria/miPerfil
