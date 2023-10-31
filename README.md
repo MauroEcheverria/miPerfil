@@ -13,7 +13,7 @@
 ### 🛠 &nbsp;Stack tecnológico
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScriptaaa](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -24,13 +24,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
-
 ### 🧩 &nbsp;Últimos proyectos
 
-- Portafolio: https://itso.ec
-- PVD Avanzado, Web: https://www.recargaloya.com
-- Plataforma Educativa para niños, Web: https://neilapp.faztery.com
-- Aplicacion movil Calculadora Espol, App: https://play.google.com/store/apps/details?id=com.veloxstudios.calculadoraprom
-- Sistema de información empresarial, Web: https://bdexpress.excecon.com.ec
-- Plataforma de cursos (Demo), Web: http://lexi.recargaloya.com/
-- Bot Whatsapp mensajes masivos, Script: https://github.com/JoelVeloz/WhatsappBot
+- Portafolio: https://github.com/kaceto104/MauroEcheverria
