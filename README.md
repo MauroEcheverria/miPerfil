@@ -1,11 +1,11 @@
-## 👋 &nbsp;¡Hola! Soy Joel
+## 👋 &nbsp;¡Hola! Mauro Echeverría
 
 ### 👨🏻‍💻 &nbsp;Acerca de mí
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;Actualmente estoy estudiando Mecatrónica en la Universidad de Escuela Superior Politécnica del Litoral (ESPOL).\
-✍️ &nbsp;En mi tiempo libre, me dedico al la lectura y a aprender sobre temas relacionados al blockchain y criptomonedas.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a joel.edu.v@gmail.com! Trataré de responder tan pronto como pueda.
+💡 &nbsp;Me considero una persona con capacidad de administrar, desarrollar, preparado para la toma de decisiones y proactivo con mis obligaciones. Capaz de desempeñarme en ambientes organizacionales que no estén acorde directamente con mi profesión. Poseo una alta capacidad analítica, buen manejo de conflictos, adaptabilidad al cambio, de excelentes relaciones interpersonales y profesionales, trabajo en equipo, proactivo, enfocado al cumplimiento de metas, altamente comprometido con los valores de la organización, sentido de responsabilidad, pertenencia y liderazgo en equipos de trabajos.\
+🎓 &nbsp;Actualmente trabajo como Fullstack developer en el Hopital de los Ceibos.\
+✍️ &nbsp;En mi tiempo libre, me dedico a aprender nuevo lenguajes de programación y base de datos para así ampliar mi Stack Tecnológico.\
+✉️ &nbsp;¡Puedes escribirme a maurovinicio.echeverria@gmail.com!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
