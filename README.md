@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mí
 
-💡 &nbsp;Me considero una persona con capacidad de administrar, desarrollar, preparado para la toma de decisiones y proactivo con mis obligaciones. Capaz de desempeñarme en ambientes organizacionales que no estén acorde directamente con mi profesión. Poseo una alta capacidad analítica, buen manejo de conflictos, adaptabilidad al cambio, de excelentes relaciones interpersonales y profesionales, trabajo en equipo, proactivo, enfocado al cumplimiento de metas, altamente comprometido con los valores de la organización, sentido de responsabilidad, pertenencia y liderazgo en equipos de trabajos.\
-🎓 &nbsp;Actualmente trabajo como Fullstack Developer en el Hospital de los Ceibos en el sector público.\
-✍️ &nbsp;En mi tiempo libre, me dedico a aprender nuevos lenguajes de programación y base de datos para así ampliar mi 🛠 Stack Tecnológico.\
-✉️ &nbsp;¡Puedes escribirme a maurovinicio.echeverria@gmail.com!
+💡 &nbsp; Me considero una persona con capacidad de administrar, desarrollar, preparado para la toma de decisiones y proactivo con mis obligaciones. Capaz de desempeñarme en ambientes organizacionales que no estén acorde directamente con mi profesión. Poseo una alta capacidad analítica, buen manejo de conflictos, adaptabilidad al cambio, de excelentes relaciones interpersonales y profesionales, trabajo en equipo, proactivo, enfocado al cumplimiento de metas, altamente comprometido con los valores de la organización, sentido de responsabilidad, pertenencia y liderazgo en equipos de trabajos.\
+🎓 &nbsp; Soy Ingeniero en Sistemas y actualmente trabajo como Fullstack Developer en el Hospital de los Ceibos en el sector público.\
+✍️ &nbsp; En mi tiempo libre, me dedico a aprender nuevos lenguajes de programación y base de datos para así ampliar mi 🛠 Stack Tecnológico.\
+✉️ &nbsp; ¡Puedes escribirme a maurovinicio.echeverria@gmail.com!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -23,6 +23,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+
+### 🧩 &nbsp; Sabes que...!!!
+
+💡 &nbsp; Fui el ganaror del 1er puesto en la 1er edición del Hackathon Guayaquil
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
+
+💡 &nbsp; Tambien ganeel 2do puesto en la 2da edición del Hackathon Guayaquil
 
 ### 🧩 &nbsp;Últimos proyectos
 
