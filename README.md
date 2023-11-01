@@ -29,10 +29,10 @@
 
 ### 🤓 &nbsp; Te comento algo de mis logros...!!!
 
-<br>🥇 &nbsp; Fui el ganaror del 1er puesto en la 1era edición del Hackathon-Guayaquil
+🥇 &nbsp; Fui el ganador del 1er puesto en la 1era edición del Hackathon-Guayaquil
 
 <img alt="Night Coding" src="https://i.postimg.cc/fR6Y3q69/ht-4.jpg" align="right"/>
 
-<br>🥈 &nbsp; Y que crees también gane el 2do puesto en la 2da edición del Hackathon-Guayaquil
+🥈 &nbsp; Y que crees también gane el 2do puesto en la 2da edición del Hackathon-Guayaquil
 
 <img alt="Night Coding" src="https://i.postimg.cc/hjR8YZsB/ht-6.jpg" align="right"/>
