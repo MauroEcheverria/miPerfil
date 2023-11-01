@@ -30,12 +30,14 @@
 
 🥇 &nbsp; Fui el ganaror del 1er puesto en la 1er edición del Hackathon Guayaquil
 
-Hackathon # 1 [Foto 1](https://i.postimg.cc/pL9DLM1v/ht-3.jpg).
+<img alt="Night Coding" src="https://i.postimg.cc/pL9DLM1v/ht-3.jpg" align="right"/>
+
+Hackathon # 1 [Foto 1](https://i.postimg.cc/pL9DLM1v/ht-3.jpg).<br>
 Hackathon # 1 [Foto 2](https://i.postimg.cc/fR6Y3q69/ht-4.jpg).
 
 🥈 &nbsp; Y que crees tambien gane el 2do puesto en la 2da edición del Hackathon Guayaquil
 
-Hackathon # 2 [Foto 1](https://i.postimg.cc/Hsvwmkz3/ht-7.jpg).
+Hackathon # 2 [Foto 1](https://i.postimg.cc/Hsvwmkz3/ht-7.jpg).<br>
 Hackathon # 2 [Foto 2](https://i.postimg.cc/hjR8YZsB/ht-6.jpg).
 
 ### 🗃 &nbsp;Últimos proyectos
