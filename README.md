@@ -25,16 +25,13 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)\
 
 \
-\
-\
-\
-\
 
 ### 🤓 &nbsp; Te comento algo de mis logros...!!!
 
 🥇 &nbsp; Fui el ganaror del 1er puesto en la 1er edición del Hackathon Guayaquil
 
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+[![ht-3.jpg](https://i.postimg.cc/pL9DLM1v/ht-3.jpg)](https://postimg.cc/v4s10ks2)
+[![ht-7.jpg](https://i.postimg.cc/Hsvwmkz3/ht-7.jpg)](https://postimg.cc/fJXtjZ60)
 
 
 🥈 &nbsp; Tambien ganeel 2do puesto en la 2da edición del Hackathon Guayaquil
