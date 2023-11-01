@@ -30,12 +30,8 @@
 
 🥇 &nbsp; Fui el ganaror del 1er puesto en la 1er edición del Hackathon Guayaquil
 
-<img alt="Night Coding" src="https://i.postimg.cc/fR6Y3q69/ht-4.jpg" align="right"/>\
+<img alt="Night Coding" src="https://i.postimg.cc/fR6Y3q69/ht-4.jpg" align="right"/>
 
 🥈 &nbsp; Y que crees tambien gane el 2do puesto en la 2da edición del Hackathon Guayaquil
 
-<img alt="Night Coding" src="https://i.postimg.cc/hjR8YZsB/ht-6.jpg" align="right"/>\
-
-### 🗃 &nbsp;Últimos proyectos
-
-- Portafolio: https://github.com/MauroEcheverria/miPerfil
+<img alt="Night Coding" src="https://i.postimg.cc/hjR8YZsB/ht-6.jpg" align="right"/>
