@@ -25,18 +25,18 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
 
-
+f
 
 
 
 
 ### 🤓 &nbsp; Te comento algo de mis logros...!!!
 
-🔥 &nbsp; Fui el ganaror del 1er puesto en la 1er edición del Hackathon Guayaquil
+🥇 &nbsp; Fui el ganaror del 1er puesto en la 1er edición del Hackathon Guayaquil
 <span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
 
-🔥 &nbsp; Tambien ganeel 2do puesto en la 2da edición del Hackathon Guayaquil
+🥈 &nbsp; Tambien ganeel 2do puesto en la 2da edición del Hackathon Guayaquil
 
-### 🧩 &nbsp;Últimos proyectos
+### 🗃 &nbsp;Últimos proyectos
 
 - Portafolio: https://github.com/MauroEcheverria/miPerfil
