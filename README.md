@@ -30,7 +30,7 @@
 
 🥇 &nbsp; Fui el ganaror del 1er puesto en la 1er edición del Hackathon Guayaquil
 
-This site was built using [GitHub Pages](https://postimg.cc/v4s10ks2).
+This site was built using [GitHub Pages](https://i.postimg.cc/Nfj6ZH65/ht-1.jpg).
 
 
 🥈 &nbsp; Tambien ganeel 2do puesto en la 2da edición del Hackathon Guayaquil
