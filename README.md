@@ -22,18 +22,21 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)\
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 
-<br>
+<br><br><br>
 
 ### 🤓 &nbsp; Te comento algo de mis logros...!!!
 
 🥇 &nbsp; Fui el ganaror del 1er puesto en la 1er edición del Hackathon Guayaquil
 
-This site was built using [GitHub Pages](https://i.postimg.cc/Nfj6ZH65/ht-1.jpg).
+Hackathon # 1 [Foto 1](https://i.postimg.cc/pL9DLM1v/ht-3.jpg).
+Hackathon # 1 [Foto 2](https://i.postimg.cc/fR6Y3q69/ht-4.jpg).
 
+🥈 &nbsp; Y que crees tambien gane el 2do puesto en la 2da edición del Hackathon Guayaquil
 
-🥈 &nbsp; Tambien ganeel 2do puesto en la 2da edición del Hackathon Guayaquil
+Hackathon # 2 [Foto 1](https://i.postimg.cc/Hsvwmkz3/ht-7.jpg).
+Hackathon # 2 [Foto 2](https://i.postimg.cc/hjR8YZsB/ht-6.jpg).
 
 ### 🗃 &nbsp;Últimos proyectos
 
