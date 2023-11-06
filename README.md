@@ -9,11 +9,9 @@
 📑 &nbsp; Mi Curriculum esta adjunto a este repositorio. ☝<br><br>
 ✉️ &nbsp; ¡Puedes escribirme a maurovinicio.echeverria@gmail.com!
 
-<p align="center">
-    <a href="https://github.com/tandpfun/skill-icons">
-        <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-    </a>
-</p>
+<a target="_blank" align="center" href="https://github.com/tandpfun/skill-icons">
+  <img align="right" top="500" height="300" width="400" alt="GIF" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+</a>
 
 <h2>🛠 &nbsp;Stack tecnológico</h2>
 
