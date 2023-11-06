@@ -15,7 +15,7 @@
     </a>
 </p>
 
-### 🛠 &nbsp;Stack tecnológico
+<h2>🛠 &nbsp;Stack tecnológico</h2>
 
 <p align="center">
   <a href="https://github.com/MauroEcheverria/miPerfil">
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-### 🤓 &nbsp; Te comento algo de mis logros...!!!
+<h2>🤓 &nbsp; Te comento algo de mis logros...!!!</h2>
 
 🥇 &nbsp; Fui el ganador del 1er puesto en la 1era edición del Hackathon-Guayaquil
 
