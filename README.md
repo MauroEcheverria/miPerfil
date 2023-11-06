@@ -9,7 +9,7 @@
 ✉️ &nbsp; ¡Puedes escribirme a maurovinicio.echeverria@gmail.com!
 
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://github.com/tandpfun/skill-icons">
         <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
     </a>
 </p>
@@ -21,8 +21,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,java,php,py,laravel,linux,postgres,mysql,mongodb,bootstrap,js,jquery,react,html,css,nodejs,express,docker,eclipse,&perline=5" />
   </a>
 </p>
-
-<br><br><br>
 
 ### 🤓 &nbsp; Te comento algo de mis logros...!!!
 
