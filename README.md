@@ -6,16 +6,13 @@
 🎓 &nbsp; Soy Ingeniero en Sistemas y actualmente trabajo como Fullstack Developer en el Hospital de los Ceibos en el sector público.<br><br>
 ✍️ &nbsp; En mi tiempo libre, me dedico a aprender nuevos lenguajes de programación y base de datos para así ampliar mi 🛠 Stack Tecnológico.<br><br>
 📑 &nbsp; Mi Curriculum esta adjunto a este repositorio. ☝<br><br>
-✉️ &nbsp; ¡Puedes escribirme a maurovinicio.echeverria@gmail.com!<br><br>
+✉️ &nbsp; ¡Puedes escribirme a maurovinicio.echeverria@gmail.com!
 
-<br>
 <p align="center">
-    <a href="https://github.com/MauroEcheverria/miPerfil">
+    <a href="https://skillicons.dev">
         <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
     </a>
 </p>
-<br>
-
 
 ### 🛠 &nbsp;Stack tecnológico
 
