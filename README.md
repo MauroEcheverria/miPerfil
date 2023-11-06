@@ -1,6 +1,7 @@
-## 👋 &nbsp;¡Hola soy Mauro Echeverría!
 
-### 👨🏻‍💻 &nbsp;Acerca de mí
+<h1 align="center">👋 &nbsp;¡Hola soy Mauro Echeverría! ✨ </h1> 
+
+<h2>👨🏻‍💻 &nbsp;Acerca de mí 😃</h2>
 
 💡 &nbsp; Me considero una persona con capacidad de administrar, desarrollar, preparado para la toma de decisiones y proactivo con mis obligaciones. Capaz de desempeñarme en ambientes organizacionales que no estén acorde directamente con mi profesión. Poseo una alta capacidad analítica, buen manejo de conflictos, adaptabilidad al cambio, de excelentes relaciones interpersonales y profesionales, trabajo en equipo, proactivo, enfocado al cumplimiento de metas, altamente comprometido con los valores de la organización, sentido de responsabilidad, pertenencia y liderazgo en equipos de trabajos.<br><br>
 🎓 &nbsp; Soy Ingeniero en Sistemas y actualmente trabajo como Fullstack Developer en el Hospital de los Ceibos en el sector público.<br><br>
