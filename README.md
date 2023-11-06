@@ -8,13 +8,14 @@
 📑 &nbsp; Mi Curriculum esta adjunto a este repositorio. ☝<br><br>
 ✉️ &nbsp; ¡Puedes escribirme a maurovinicio.echeverria@gmail.com!<br><br>
 
+<div>
+    <p align="center">
+        <a href="https://github.com/MauroEcheverria/miPerfil">
+            <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+        </a>
+    </p>
+</div>
 
-
-<p align="center">
-  <a href="https://github.com/MauroEcheverria/miPerfil">
-    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-  </a>
-</p>
 
 ### 🛠 &nbsp;Stack tecnológico
 
