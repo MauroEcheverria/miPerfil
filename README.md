@@ -12,13 +12,19 @@
 
 <h2>🛠 &nbsp;Stack tecnológico</h2>
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 300px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 400px></picture>
 
 <p align="center">
   <a href="https://github.com/MauroEcheverria/miPerfil">
     <img src="https://skillicons.dev/icons?i=git,github,java,php,py,laravel,linux,postgres,mysql,mongodb,bootstrap,js,jquery,react,html,css,nodejs,express,docker,eclipse,&perline=5" />
   </a>
 </p>
+
+<h2 align="center">Frequently Used Technologies</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaceto104&theme=blue-green">
+</div>
 
 <h2>🤓 &nbsp; Te comento algo de mis logros...!!!</h2>
 
