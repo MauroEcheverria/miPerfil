@@ -20,11 +20,13 @@
   </a>
 </p>
 
+<!--
 <h2 align="center">Frequently Used Technologies</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
 </div>
+-->
 
 <h2>🤓 &nbsp; Te comento algo de mis logros...!!!</h2>
 
