@@ -4,8 +4,6 @@
 
 <h2>👨🏻‍💻 &nbsp;Acerca de mí 😃</h2>
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 300px></picture>
-
 💡 &nbsp; Me considero una persona con capacidad de administrar, desarrollar, preparado para la toma de decisiones y proactivo con mis obligaciones. Capaz de desempeñarme en ambientes organizacionales que no estén acorde directamente con mi profesión. Poseo una alta capacidad analítica, buen manejo de conflictos, adaptabilidad al cambio, de excelentes relaciones interpersonales y profesionales, trabajo en equipo, proactivo, enfocado al cumplimiento de metas, altamente comprometido con los valores de la organización, sentido de responsabilidad, pertenencia y liderazgo en equipos de trabajos.<br><br>
 🎓 &nbsp; Soy Ingeniero en Sistemas y actualmente trabajo como Fullstack Developer en el Hospital de los Ceibos en el sector público.<br><br>
 ✍️ &nbsp; En mi tiempo libre, me dedico a aprender nuevos lenguajes de programación y base de datos para así ampliar mi 🛠 Stack Tecnológico.<br><br>
@@ -13,6 +11,8 @@
 ✉️ &nbsp; ¡Puedes escribirme a maurovinicio.echeverria@gmail.com!
 
 <h2>🛠 &nbsp;Stack tecnológico</h2>
+
+<picture> <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 300px></picture>
 
 <p align="center">
   <a href="https://github.com/MauroEcheverria/miPerfil">
