@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/MauroEcheverria/miPerfil">
-    <img src="https://skillicons.dev/icons?i=git,github,java,php,py,laravel,linux,postgres,mysql,mongodb,bootstrap,js,jquery,react,html,css,nodejs,express,docker,eclipse,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,php,py,laravel,postgres,mysql,mongodb,bootstrap,js,jquery,react,html,css,nodejs,express,docker,eclipse,linux&perline=5" />
   </a>
 </p>
 
